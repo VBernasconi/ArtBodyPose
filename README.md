@@ -1,3 +1,8 @@
+### ArtBodyPose
+Adapted from Detectron2, the goal of the present project is to retrain keypoints detection models on custom COCO dataset
+
+### About Detectron2
+
 <img src=".github/Detectron2-Logo-Horz.svg" width="300" >
 
 Detectron2 is Facebook AI Research's next generation library
@@ -7,9 +12,6 @@ It is the successor of
 and [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark/).
 It supports a number of computer vision research projects and production applications in Facebook.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/1381301/66535560-d3422200-eace-11e9-9123-5535d469db19.png"/>
-</div>
 
 ### What's New
 * Includes new capabilities such as panoptic segmentation, Densepose, Cascade R-CNN, rotated bounding boxes, PointRend,
